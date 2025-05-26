@@ -15,7 +15,7 @@ st.image("bann.gif", use_column_width=True)
 
 # 👉 Titre principal
 st.markdown(
-    "<h1 style='text-align: center;'>Image Caption Generator</h1>",
+    "<h1 style='text-align: center;'>Application Image-to-Text</h1>",
     unsafe_allow_html=True
 )
 
