@@ -151,7 +151,7 @@ image-captioning/
 
 ## 📄 Rapport du Projet
 
-📝 Le rapport complet du projet (10 pages max) est téléchargeable ici :
+📝 Le rapport complet du projet est téléchargeable ici :
 
 [📂 Rapport Word sur Google Drive](https://drive.google.com/drive/folders/1nKXCG6i83RCjmf6pTOSpsY7va7zW68NI?usp=sharing)
 
