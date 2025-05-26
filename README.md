@@ -18,7 +18,7 @@ L’application finale est déployée avec **Streamlit** pour permettre à l’u
 
 ## 🚀 Lien vers la Démo
 
-🔗 [Tester l'application en ligne sur Streamlit](https://captionify.streamlit.app/)
+🔗 [Tester l'application en ligne sur Streamlit](https://image-captioning-ueevcupf3mfhgnvsxs669g.streamlit.app/)
 
 ---
 
@@ -26,7 +26,7 @@ L’application finale est déployée avec **Streamlit** pour permettre à l’u
 
 | Image Uploadée | Légende Générée |
 |----------------|------------------|
-| ![exemple](exemples/chat.jpg) | "Un chat est allongé sur un coussin gris." |
+| ![exemple](https://img.freepik.com/photos-gratuite/capture-verticale-chat-tigre-gris-allonge-lit_181624-43634.jpg?uid=R96695662&ga=GA1.1.1530249213.1746627122&semt=ais_items_boosted&w=740) | "Un chat est allongé sur un coussin gris." |
 
 ---
 
